@@ -1,0 +1,23 @@
+.navdiv{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+}
+.signButton{
+    background-color:bisque;
+    padding: 0px;
+    margin:30px;
+    border: none;
+    outline: none;
+    
+    
+
+}
+.signButton:hover{
+    color:green;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.navdiv2{
+    margin-right: 50px;
+}
